@@ -1,2 +1,2 @@
 # test-repo
-testing reo creation
+testing repo creation
